@@ -24,6 +24,7 @@
     "@angular/router": "~9.0.5",
     "highcharts": "^8.0.3",
     "highcharts-angular": "^2.4.0",
+    "minimist": "^1.2.5",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
